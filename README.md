@@ -3,7 +3,7 @@ An unofficial TypeScript wrapper for the Notion API
 
 ![License](https://img.shields.io/github/license/notion-hacks/notion-typescript-api.svg)
 ![Type Definitions](https://img.shields.io/npm/types/typescript.svg)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Greenkeeper badge](https://badges.greenkeeper.io/notion-hacks/notion-typescript-api.svg)](https://greenkeeper.io/)
 
 ## Prerequisites
 * [Node.JS](https://nodejs.org/en/)
